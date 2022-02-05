@@ -2,6 +2,9 @@
 
 Aplicación para la gestión de restaurants, sus respectivas mesas, pedidos y productos.
 
+Representación del sistema:  
+![diagrama](restaurant-api.PNG)
+
 ### Entidades
 
 * User: La creación de usuarios, se realiza en conjunto con la creación de su correspondiente restaurant.  
